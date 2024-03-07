@@ -1,0 +1,174 @@
+{
+  "accounts": [
+    {
+      "aid": 1,
+      "userName": "admin",
+      "password": "123",
+      "id": "cf6a"
+    },
+    {
+      "aid": 2,
+      "userName": "giang",
+      "password": "12345",
+      "id": "918c"
+    }
+  ],
+  "categories": [
+    {
+      "id": "C001",
+      "ctitle": "Phòng khách",
+      "cimage": "icon_phong_khach",
+      "cstatus": true
+    },
+    {
+      "id": "C002",
+      "ctitle": "Phòng bếp",
+      "cimage": "icon_phong_bep",
+      "cstatus": true
+    },
+    {
+      "id": "C003",
+      "ctitle": "Phòng ngủ",
+      "cimage": "icon_phong_ngu",
+      "cstatus": true
+    },
+    {
+      "id": "C004",
+      "ctitle": "Cầu thang",
+      "cimage": "icon_cau_thang",
+      "cstatus": true
+    }
+  ],
+  "products": [
+    {
+      "id": "P001",
+      "ptitle": "Bàn uống nước",
+      "pimage": "Ban_uong_nuoc",
+      "pdesc": "Bàn uống nước tế",
+      "pprice": "9500000",
+      "psellprice": "8500000",
+      "material": "Gỗ lim",
+      "size": "1m2 x 1m",
+      "categorieID": "C001",
+      "pstatus": true
+    },
+    {
+      "id": "P002",
+      "ptitle": "Kệ đồ",
+      "pimage": "ke_do",
+      "pdesc": "Kệ đồ với tone màu nâu chủ đạo dễ phối hợp với background đa dạng, thiết kế đơn giản nhưng mang lại rất nhiều không gian cho khách hàng có thể đặt nhiều đồ vật ",
+      "pprice": "6000000",
+      "psellprice": "4999000",
+      "material": "Gỗ ép",
+      "size": "1m2 x 1m",
+      "categorieID": "C001",
+      "pstatus": true
+    },
+    {
+      "id": "P003",
+      "ptitle": "bàn ăn",
+      "pimage": "ban_an",
+      "pdesc": "Bàn ăn ....",
+      "pprice": "12000000",
+      "psellprice": "10500000",
+      "material": "Gỗ nhựa và kính",
+      "size": "1m2 x 1m",
+      "categorieID": "C002",
+      "pstatus": true
+    },
+    {
+      "id": "P005",
+      "ptitle": "Sofa",
+      "pimage": "sofa",
+      "pdesc": "Sofa êm ái thoải mái",
+      "pprice": "5000000",
+      "psellprice": "4500000",
+      "material": "Da cao cấp",
+      "size": "2m",
+      "categorieID": "C001",
+      "pstatus": true
+    },
+    {
+      "id": "P004",
+      "ptitle": "Kệ TV",
+      "pimage": "ke_tv",
+      "pdesc": "Kệ tv dành cho phòng khách phong cách hiện đại",
+      "pprice": "1200000",
+      "psellprice": "1000000",
+      "material": "Gỗ",
+      "size": "1m2",
+      "categorieID": "C001",
+      "pstatus": true
+    },
+    {
+      "id": "P006",
+      "ptitle": "Cầu thang",
+      "pimage": "cau_thang",
+      "pdesc": "Cầu thang gỗ trụ xoắn",
+      "pprice": "20000000",
+      "psellprice": "18500000",
+      "material": "Gỗ lim",
+      "size": "1m2",
+      "categorieID": "C004",
+      "pstatus": true
+    },
+    {
+      "id": "P007",
+      "ptitle": "Giường châu âu",
+      "pimage": "giuong_chau_au",
+      "pdesc": "Giường Châu Âu thiết kế sang trọng xen lẫn cổ điển...",
+      "pprice": "30000000",
+      "psellprice": "28999999",
+      "material": "Gỗ + Da cao cấp",
+      "size": "3m x 2m5",
+      "categorieID": "C003",
+      "pstatus": true
+    },
+    {
+      "id": "P008",
+      "ptitle": "Giá đỡ",
+      "pimage": "gia_do",
+      "pdesc": "Giá đỡ đựng đồ tiện dụng không tốn diện tích",
+      "pprice": "2000000",
+      "psellprice": "1900000",
+      "material": "Gỗ ép",
+      "size": "2m x 1,5m",
+      "categorieID": "C001",
+      "pstatus": true
+    }
+  ],
+  "news": [
+    {
+      "id": "N001",
+      "ntitle": "TOP 10 MẪU NỘI THẤT CHUNG CƯ 1 PHÒNG NGỦ",
+      "ndesc": "Những căn hộ chung cư mini có diện tích nhỏ, ngày càng trở nên ưa chuộng hơn trong cuộc sống hiện đại với những ai có khoản kinh phí “hạn hẹp”. Thiết kế nội thất chung cư một phòng ngủ chính là giải pháp tối ưu nhất mang lại một không gian sống hoàn hảo và hiện đại.",
+      "ndate": "2/4/2023",
+      "nimage": "news1",
+      "nstatus": true
+    },
+    {
+      "id": "N002",
+      "ntitle": "Trang trí phòng khách cho thêm năng động",
+      "ndesc": "Không cần quá đầu tư quá nhiều tiền vào những món đồ sang trong cho việc trang trí phòng khách. Bạn vẫn có thể sở hữu không gian phòng khách đẹp với những mẹo không phải ai cũng sẵn sàng chỉ cho bạn.",
+      "ndate": "9/8/2023",
+      "nimage": "news2",
+      "nstatus": true
+    },
+    {
+      "id": "N003",
+      "ntitle": "Cách chọn Sofa cho phòng khách thêm sang trọng",
+      "ndesc": "Không phải ai trong chúng ta cũng biết cách chọn màu sofa cho phòng khách trở nên sang trọng và đẹp mắt hơn. Tuy nhiên, đây là yếu tố quyết định phần lớn đến tính thẩm mỹ của toàn bộ ngôi nhà.",
+      "ndate": "12/12/2023",
+      "nimage": "news3",
+      "nstatus": true
+    },
+    {
+      "id": "N004",
+      "ntitle": "25 mẫu giường ngủ hộc kéo cho phòng nhỏ",
+      "ndesc": "Sự thật là chúng ta dành hết 1/3 cuộc đời chỉ để ngủ, vì thế việc tạo được một giấc ngủ ngon là một điều đặc biệt quan trọng. Giường ngủ hộc kéo chính là giải pháp thông minh vừa giúp đem lại một giấc ngủ sâu, vừa giúp các gia đình giải quyết hiệu quả bài toán diện tích.",
+      "ndate": "12/1/2024",
+      "nimage": "news4",
+      "nstatus": true
+    }
+  ]
+}
